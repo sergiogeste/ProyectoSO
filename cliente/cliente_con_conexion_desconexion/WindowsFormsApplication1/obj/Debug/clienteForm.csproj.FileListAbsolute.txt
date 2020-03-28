@@ -1,0 +1,16 @@
+C:\Users\gemma\Documents\Victor\4t Quatrimestre TELECOS\SO\SEMANA4\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\gemma\Documents\Victor\4t Quatrimestre TELECOS\SO\SEMANA4\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\gemma\Documents\Victor\4t Quatrimestre TELECOS\SO\SEMANA4\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\gemma\Documents\Victor\4t Quatrimestre TELECOS\SO\SEMANA4\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gemma\Documents\Victor\4t Quatrimestre TELECOS\SO\SEMANA4\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gemma\Documents\Victor\4t Quatrimestre TELECOS\SO\SEMANA4\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Users\gemma\Documents\Victor\4t Quatrimestre TELECOS\SO\SEMANA4\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\gemma\Documents\Victor\4t Quatrimestre TELECOS\SO\SEMANA4\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sergio Gesteira\Desktop\2A\Proteus 8.7 SP3 PRO\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Sergio Gesteira\Desktop\2A\Proteus 8.7 SP3 PRO\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sergio Gesteira\Desktop\2A\Proteus 8.7 SP3 PRO\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sergio Gesteira\Desktop\2A\Proteus 8.7 SP3 PRO\cliente_con_conexion_desconexion\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sergio Gesteira\Desktop\2A\Proteus 8.7 SP3 PRO\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Gesteira\Desktop\2A\Proteus 8.7 SP3 PRO\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sergio Gesteira\Desktop\2A\Proteus 8.7 SP3 PRO\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sergio Gesteira\Desktop\2A\Proteus 8.7 SP3 PRO\cliente_con_conexion_desconexion\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
